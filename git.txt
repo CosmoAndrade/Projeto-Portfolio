@@ -1,0 +1,5 @@
+git remote add origin https://github.com/CosmoAndrade/Projeto-Portfolio.git
+git branch -M main
+git push -u origin main
+
+https://www.figma.com/file/CpIY5lAW06HEGQXf8rSJUh/Portfolio-(Community)?node-id=0%3A1
