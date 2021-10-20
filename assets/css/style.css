@@ -66,3 +66,26 @@ img.perfil {
     border: 2px solid var(--borda-clara);
     padding: 30px;
 }
+
+.about {
+    color: white
+}
+
+.about-img {
+    justify-content: space-evenly;
+}
+
+.bola{
+    /* padding: 50px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: #212121;
+    position: relative;
+    width: 62px;
+    height: 62px;
+
+
+}
+
