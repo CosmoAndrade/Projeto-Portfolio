@@ -117,3 +117,33 @@ img.perfil {
    
 }
 
+.skills {
+    background-color: #212121;
+    width: 1168px;
+    height: 235px;
+    margin: auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+   
+}
+
+.skills .skills-itens {
+    text-align: center;
+    
+}
+
+.skills .skills-itens h5{
+    color: #4F4F4F;
+    font-size:72px;
+    font-weight: 700;
+     
+}
+
+.skills .skills-itens p{
+    color: var(--cor-primaria);
+    font-size: 24px;
+    
+}
