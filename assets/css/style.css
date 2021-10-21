@@ -89,3 +89,31 @@ img.perfil {
 
 }
 
+.habilidades{
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.habilidades .caixa {
+    width: 349px;
+    height: 241px;
+    background-color: #212121;
+    border-radius: 10px;
+    padding: 35px;
+   
+   
+}
+
+.destaque{
+    color: red;
+}
+
+.habilidades h6{
+    color: #535353;
+    font-size: 36px;
+    font-weight: 500;
+    margin-top: 20px;
+   
+}
+
