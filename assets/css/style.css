@@ -182,3 +182,9 @@ img.perfil {
 .center{
     text-align: center;
 }
+
+.roda-pe h2{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+}
