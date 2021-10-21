@@ -147,3 +147,38 @@ img.perfil {
     font-size: 24px;
     
 }
+
+/* form */
+
+.width-50{
+    width: 50%;
+
+}
+
+.input-custon {
+    width: 100%;
+    background-color: transparent;
+    margin: 30px 0;
+    border: 0;
+    border-bottom: 1px solid #4F4F4F;
+}
+
+.text-area-custon{
+    width: 100%;
+    background-color: transparent;
+    margin: 30px 0;
+    border: 1px solid #4F4F4F;
+
+}
+
+.button{
+    background-color: var(--cor-primaria);
+    padding: 10px 30px;
+    color: white;
+    border: none;
+  
+}
+
+.center{
+    text-align: center;
+}
