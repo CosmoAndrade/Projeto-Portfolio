@@ -19,6 +19,7 @@ a{
 
 body {
     background-color: var(--fundo-escuro);
+   
 }
 
 /* Margin */
@@ -71,6 +72,7 @@ img.perfil {
     border-radius: 50%;
     border: 2px solid var(--borda-clara);
     padding: 30px;
+    max-width: 100%;
 }
 
 .about {
@@ -79,6 +81,7 @@ img.perfil {
 
 .about-img {
     justify-content: space-evenly;
+   
 }
 
 .bola{
@@ -191,4 +194,8 @@ img.perfil {
     font-weight: 500;
     font-size: 14px;
     line-height: 18px;
+}
+
+input {
+    color: white;
 }
